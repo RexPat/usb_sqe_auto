@@ -1,0 +1,12 @@
+{
+  "column_names": {
+    "test_name": "test_name",
+    "assertion_id": "assertion_id",
+    "assertion_comment": "assertion_comment",
+    "assertion_name": "assertion_name",
+    "test_result": "test_result",
+    "assertion_result": "assertion_result",
+    "comment": "comment",
+    ""
+  }
+}

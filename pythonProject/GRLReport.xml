@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<testReport>
+  <product>
+    <deviceID>0</deviceID>
+    <nameVendor>SiliConch Systems Private Limited</nameVendor>
+    <nameProduct>SiliConch Systems Private Limited</nameProduct>
+    <nameModel>Mudra1(WLCSP-4)</nameModel>
+    <productInfo>
+      <vif><![CDATA[<?xml version="1.0" encoding="utf-8"?><vif:VIF xmlns:opt="http://usb.org/VendorInfoFileOptionalContent.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:vif="http://usb.org/VendorInfoFile.xsd"><vif:VIF_Specification>3.23</vif:VIF_Specification><vif:VIF_App><vif:Vendor>USB-IF</vif:Vendor><vif:Name>VIF Editor</vif:Name><vif:Version>3.4.3.0</vif:Version></vif:VIF_App><vif:Vendor_Name>SiliConch Systems Private Limited</vif:Vendor_Name><vif:Model_Part_Number>Mudra1(WLCSP-4)</vif:Model_Part_Number><vif:Product_Revision>1.1</vif:Product_Revision><vif:TID>0</vif:TID><vif:VIF_Product_Type value="1">Cable</vif:VIF_Product_Type><vif:Certification_Type value="0">End Product</vif:Certification_Type><vif:Product><!--Product Level Content:--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><!--;USB4™ Product--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><vif:USB4_DROM_Vendor_ID value="0">0000</vif:USB4_DROM_Vendor_ID></vif:Product><vif:Component><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><!--;Component--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><vif:USB4_Supported value="true" /><vif:USB_PD_Support value="true" /><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><!--;General PD--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><vif:PD_Spec_Revision_Major value="3" /><vif:PD_Spec_Revision_Minor value="0" /><vif:PD_Spec_Version_Major value="2" /><vif:PD_Spec_Version_Minor value="0" /><vif:PD_Specification_Revision value="2">Revision 3</vif:PD_Specification_Revision><vif:SOP_Capable value="false" /><vif:SOP_P_Capable value="true" /><vif:SOP_PP_Capable value="false" /><vif:SOP_P_Debug_Capable value="false" /><vif:SOP_PP_Debug_Capable value="false" /><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><!--;PD Capabilities--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><vif:Enter_USB_Supported value="false" /><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><!--;Cable/eMarker--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><vif:XID value="9502" /><vif:Data_Capable_As_USB_Host value="false" /><vif:Data_Capable_As_USB_Device value="false" /><vif:Product_Type value="3">Passive Cable</vif:Product_Type><vif:Modal_Operation_Supported value="true" /><vif:USB_VID value="11638">2D76</vif:USB_VID><vif:PID value="1">0001</vif:PID><vif:bcdDevice value="256">0100</vif:bcdDevice><vif:Cable_HW_Vers value="1">1</vif:Cable_HW_Vers><vif:Cable_FW_Vers value="1">1</vif:Cable_FW_Vers><vif:Type_C_To_Type_A_B_C value="2">Type-C®</vif:Type_C_To_Type_A_B_C><vif:Type_C_To_Type_C_Capt_Vdm_V2 value="2">USB Type-C®</vif:Type_C_To_Type_C_Capt_Vdm_V2><vif:Cable_Latency value="1">&lt;10ns</vif:Cable_Latency><vif:Cable_Termination_Type value="0">Both ends Passive, VCONN not required</vif:Cable_Termination_Type><vif:VBUS_Through_Cable value="true" /><vif:Cable_VBUS_Current value="2">5A</vif:Cable_VBUS_Current><vif:Cable_Superspeed_Support value="2">USB 3.1 Gen 2</vif:Cable_Superspeed_Support><vif:Cable_USB_Highest_Speed value="2">USB3.2/USB4 Gen2</vif:Cable_USB_Highest_Speed><vif:Max_VBUS_Voltage_Vdm_V2 value="0">20V</vif:Max_VBUS_Voltage_Vdm_V2><vif:Manufacturer_Info_Supported value="true" /><vif:Manufacturer_Info_VID value="11638">2D76</vif:Manufacturer_Info_VID><vif:Manufacturer_Info_PID value="1">0001</vif:Manufacturer_Info_PID><vif:Chunking_Implemented value="false" /><vif:Security_Msgs_Supported value="false" /><vif:ID_Header_Connector_Type value="3">USB Type-C® Plug</vif:ID_Header_Connector_Type><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><!--;Cable Modes--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><vif:SVID_Fixed value="true" /><vif:Cable_Num_SVIDs_Min value="1" /><vif:Cable_Num_SVIDs_Max value="1" /><!--Bundle: CableSVIDList--><vif:CableSVIDList><vif:CableSVID><!--Cable SVID 1--><vif:SVID value="32903">8087</vif:SVID><vif:SVID_Modes_Fixed value="true" /><vif:SVID_Num_Modes_Min value="1" /><vif:SVID_Num_Modes_Max value="1" /><!--Bundle: CableSVIDModeList--><vif:CableSVIDModeList><vif:CableSVIDMode><!--Cable SVID Mode 1--><vif:SVID_Mode_Enter value="true" /><vif:SVID_Mode_Recog_Value value="286331153">11111111</vif:SVID_Mode_Recog_Value></vif:CableSVIDMode></vif:CableSVIDModeList></vif:CableSVID></vif:CableSVIDList></vif:Component></vif:VIF>]]></vif>
+    </productInfo>
+  </product>
+  <components>
+    <component>
+      <technology />
+      <subject />
+      <value />
+      <testTool>
+        <deviceID>C2</deviceID>
+        <nameVendor>Granite River Labs</nameVendor>
+        <nameProduct>GRL-C2</nameProduct>
+        <nameModel>
+        </nameModel>
+        <versionHW>
+        </versionHW>
+        <versionSW>1.6.10.22</versionSW>
+        <versionFW>1.1.4 / 1.3 / 1.3 / 3.3 / 3.3</versionFW>
+        <serialNumber>GRL-C2-EPR-2022038</serialNumber>
+        <dateCalibration>
+        </dateCalibration>
+        <configuration>
+        </configuration>
+        <description>
+        </description>
+        <comments>
+        </comments>
+        <testRuns>
+          <testRun timestamp="2023-01-19T14:23:46">
+            <spec>
+              <title>USB Power Delivery Compliance Test Specification</title>
+              <version>1.0</version>
+              <revision>1.2</revision>
+            </spec>
+            <score value="pass" />
+            <test tcID="TEST.PD.PHY.ALL.5">
+              <title>Receiver Interference Rejection </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.5#1">
+                      <score value=" pass" />
+                      <comment>Expected Cnt: 13362 Obtained BIST Cnt: 13362 and GoodCRC Cnt: 13362
+NoiseGrp_1_Cable: Packet#19. Count Reference: Packet#BIST: 26747 GoodCRC: 26748</comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.5#4">
+                      <score value=" pass" />
+                      <comment>Expected Cnt: 13362 Obtained BIST Cnt: 13362 and GoodCRC Cnt: 13362
+NoiseGrp_2_Cable: Packet#26750. Count Reference: Packet#BIST: 53478 GoodCRC: 53479
+Expected Cnt: 13362 Obtained BIST Cnt: 13362 and GoodCRC Cnt: 13362
+NoiseGrp_3_Cable: Packet#53481. Count Reference: Packet#BIST: 80209 GoodCRC: 80210</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.5#1">
+                      <score value=" pass" />
+                      <comment>Expected Cnt: 13362 Obtained BIST Cnt: 13362 and GoodCRC Cnt: 13362
+NoiseGrp_1_Cable: Packet#80222. Count Reference: Packet#BIST: 106950 GoodCRC: 106951</comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.5#4">
+                      <score value=" pass" />
+                      <comment>Expected Cnt: 13362 Obtained BIST Cnt: 13362 and GoodCRC Cnt: 13362
+NoiseGrp_2_Cable: Packet#106953. Count Reference: Packet#BIST: 133681 GoodCRC: 133682
+Expected Cnt: 13362 Obtained BIST Cnt: 13362 and GoodCRC Cnt: 13362
+NoiseGrp_3_Cable: Packet#133684. Count Reference: Packet#BIST: 160412 GoodCRC: 160413</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.1">
+              <title>Common_Check_PD_1_Check_Preamble - COMMON.CHECK.PD.1</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.1#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.2">
+              <title>Common_Check_PD_2_Check_Message_Header - COMMON.CHECK.PD.2</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.2#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.3">
+              <title>Common_Check_PD_3_Check_GoodCRC - COMMON.CHECK.PD.3</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.3#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.3#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.4">
+              <title>Common_Check_PD_4_Check_Atomic_Message_Sequence - COMMON.CHECK.PD.4</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.4#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.5">
+              <title>Common_Check_PD_5_Check_Unexpected_Messages_And_Signals - COMMON.CHECK.PD.5</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.5#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.5#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.5#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.5#4">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.6">
+              <title>Common_Check_PD_6_Control_Message - COMMON.CHECK.PD.6</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.6#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.7">
+              <title>Common_Check_PD_7_Source_Capability_Message - COMMON.CHECK.PD.7</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.7#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#4">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#5">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#6">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#7">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#8">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#9">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#10">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#11">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#12">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.8">
+              <title>Common_Check_PD_8_Request_Message - COMMON.CHECK.PD.8</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.8#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.9">
+              <title>Common_Check_PD_9_Structured_VDM - COMMON.CHECK.PD.9</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.9#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.10">
+              <title>Common_Check_PD_10_Extended_Message_Header - COMMON.CHECK.PD.10</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.10#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.11">
+              <title>Common_Check_PD_11_Source_Capability_Extended_Message - COMMON.CHECK.PD.11</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.11#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.12">
+              <title>Common_Check_PD_12_Check_Sink_Capabilities - COMMON.CHECK.PD.12</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.12#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.13">
+              <title>Common_Check_PD_13_Check_Correct_Use_of_Rp - COMMON.CHECK.PD.13</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.13#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD3.1">
+              <title>COMMON_CHECK_PD3_1_Check_EPR_Request_Message - COMMON.CHECK.PD3.1</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD3.1#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD3.2">
+              <title>COMMON_CHECK_PD3_2_Check_EPR_Mode_Message - COMMON.CHECK.PD3.2</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD3.2#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD3.3">
+              <title>COMMON_CHECK_PD3_3_Check_EPR_Source_Capabilities_Message - COMMON.CHECK.PD3.3</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD3.3#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD3.4">
+              <title>COMMON_CHECK_PD3_4_Check_EPR_Sink_Capabilities_Message - COMMON.CHECK.PD3.4</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD3.4#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.2">
+              <title>COMMON_PROC_PD_2_UUT_Sent_Get_Source_Cap - COMMON.PROC.PD.2</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.2#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.2#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.3">
+              <title>COMMON_PROC_PD_3_UUT_Sent_Get_Sink_Cap - COMMON.PROC.PD.3</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.3#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.4">
+              <title>COMMON_PROC_PD_4_UUT_Sent_Ping - COMMON.PROC.PD.4</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.4#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.5">
+              <title>COMMON_PROC_PD_5_UUT_Sent_PR_Swap - COMMON.PROC.PD.5</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.5#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.5#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.5#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.6">
+              <title>COMMON_PROC_PD_6_UUT_Sent_VCONN_Swap - COMMON.PROC.PD.6</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.6#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.6#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.6#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.6#4">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.7">
+              <title>COMMON_PROC_PD_7_UUT_Sent_Discover_Identity_Request - COMMON.PROC.PD.7</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.7#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.7#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.7#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.8">
+              <title>COMMON_PROC_PD_8_UUT_Sent_Discover_SVIDs_Request - COMMON.PROC.PD.8</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.8#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.8#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.8#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.9">
+              <title>COMMON_PROC_PD_9_UUT_Sent_Attention - COMMON.PROC.PD.9</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.9#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.9#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.10">
+              <title>COMMON_PROC_PD_10_UUT_Sent_Request - COMMON.PROC.PD.10</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.10#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.11">
+              <title>COMMON_PROC_PD_11_UUT_Sent_Source_Capabilities - COMMON.PROC.PD.11</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.11#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.11#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.11#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.11#4">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.12">
+              <title>COMMON_PROC_PD_12_UUT_Sent_DR_Swap - COMMON.PROC.PD.12</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.12#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.1">
+              <title>COMMON_PROC_PD3_1_Sink_Start_an_AMS - COMMON.PROC.PD3.1</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD3.1#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.2">
+              <title>COMMON_PROC_PD3_2_UUT_Sent_EPR_Source_Cap_message - COMMON.PROC.PD3.2</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD3.2#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.2#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.2#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.3">
+              <title>COMMON_PROC_PD3_3_UUT_Sent_EPR_Get_Source_Cap - COMMON.PROC.PD3.3</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD3.3#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.3#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.4">
+              <title>COMMON_PROC_PD3_4_UUT_Sent_EPR_Request - COMMON.PROC.PD3.4</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.3.4#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.5">
+              <title>COMMON_PROC_PD3_5_Tester_Sent_EPR_Mode_Enter - COMMON.PROC.PD3.5</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD3.5#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#4">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#5">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#6">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#7">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#8">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.6">
+              <title>COMMON_PROC_PD3_6_UUT_Sent_EPR_Mode_Enter - COMMON.PROC.PD3.6</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD3.6#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.6#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.6#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.6#4">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.6#5">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.6#6">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.6#7">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.7">
+              <title>COMMON_PROC_PD3_7_Tester_Sends_EPR_KeepAlive_Message - COMMON.PROC.PD3.7</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD3.7#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+          </testRun>
+        </testRuns>
+      </testTool>
+    </component>
+  </components>
+</testReport>

@@ -1,0 +1,2458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testReport>
+  <product>
+    <deviceID>0</deviceID>
+    <nameVendor>SiliConch Systems Private Limited</nameVendor>
+    <nameProduct>SiliConch Systems Private Limited</nameProduct>
+    <nameModel>Mudra1(WLCSP-4)</nameModel>
+    <productInfo>
+      <vif><![CDATA[<?xml version="1.0" encoding="utf-8"?><vif:VIF xmlns:opt="http://usb.org/VendorInfoFileOptionalContent.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:vif="http://usb.org/VendorInfoFile.xsd"><vif:VIF_Specification>3.23</vif:VIF_Specification><vif:VIF_App><vif:Vendor>USB-IF</vif:Vendor><vif:Name>VIF Editor</vif:Name><vif:Version>3.4.3.0</vif:Version></vif:VIF_App><vif:Vendor_Name>SiliConch Systems Private Limited</vif:Vendor_Name><vif:Model_Part_Number>Mudra1(WLCSP-4)</vif:Model_Part_Number><vif:Product_Revision>1.1</vif:Product_Revision><vif:TID>0</vif:TID><vif:VIF_Product_Type value="1">Cable</vif:VIF_Product_Type><vif:Certification_Type value="0">End Product</vif:Certification_Type><vif:Product><!--Product Level Content:--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><!--;USB4™ Product--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><vif:USB4_DROM_Vendor_ID value="0">0000</vif:USB4_DROM_Vendor_ID></vif:Product><vif:Component><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><!--;Component--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><vif:USB4_Supported value="true" /><vif:USB_PD_Support value="true" /><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><!--;General PD--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><vif:PD_Spec_Revision_Major value="3" /><vif:PD_Spec_Revision_Minor value="0" /><vif:PD_Spec_Version_Major value="2" /><vif:PD_Spec_Version_Minor value="0" /><vif:PD_Specification_Revision value="2">Revision 3</vif:PD_Specification_Revision><vif:SOP_Capable value="false" /><vif:SOP_P_Capable value="true" /><vif:SOP_PP_Capable value="false" /><vif:SOP_P_Debug_Capable value="false" /><vif:SOP_PP_Debug_Capable value="false" /><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><!--;PD Capabilities--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><vif:Enter_USB_Supported value="false" /><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><!--;Cable/eMarker--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><vif:XID value="9502" /><vif:Data_Capable_As_USB_Host value="false" /><vif:Data_Capable_As_USB_Device value="false" /><vif:Product_Type value="3">Passive Cable</vif:Product_Type><vif:Modal_Operation_Supported value="true" /><vif:USB_VID value="11638">2D76</vif:USB_VID><vif:PID value="1">0001</vif:PID><vif:bcdDevice value="256">0100</vif:bcdDevice><vif:Cable_HW_Vers value="1">1</vif:Cable_HW_Vers><vif:Cable_FW_Vers value="1">1</vif:Cable_FW_Vers><vif:Type_C_To_Type_A_B_C value="2">Type-C®</vif:Type_C_To_Type_A_B_C><vif:Type_C_To_Type_C_Capt_Vdm_V2 value="2">USB Type-C®</vif:Type_C_To_Type_C_Capt_Vdm_V2><vif:Cable_Latency value="1">&lt;10ns</vif:Cable_Latency><vif:Cable_Termination_Type value="0">Both ends Passive, VCONN not required</vif:Cable_Termination_Type><vif:VBUS_Through_Cable value="true" /><vif:Cable_VBUS_Current value="2">5A</vif:Cable_VBUS_Current><vif:Cable_Superspeed_Support value="2">USB 3.1 Gen 2</vif:Cable_Superspeed_Support><vif:Cable_USB_Highest_Speed value="2">USB3.2/USB4 Gen2</vif:Cable_USB_Highest_Speed><vif:Max_VBUS_Voltage_Vdm_V2 value="0">20V</vif:Max_VBUS_Voltage_Vdm_V2><vif:Manufacturer_Info_Supported value="true" /><vif:Manufacturer_Info_VID value="11638">2D76</vif:Manufacturer_Info_VID><vif:Manufacturer_Info_PID value="1">0001</vif:Manufacturer_Info_PID><vif:Chunking_Implemented value="false" /><vif:Security_Msgs_Supported value="false" /><vif:ID_Header_Connector_Type value="3">USB Type-C® Plug</vif:ID_Header_Connector_Type><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><!--;Cable Modes--><!--;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;--><vif:SVID_Fixed value="true" /><vif:Cable_Num_SVIDs_Min value="1" /><vif:Cable_Num_SVIDs_Max value="1" /><!--Bundle: CableSVIDList--><vif:CableSVIDList><vif:CableSVID><!--Cable SVID 1--><vif:SVID value="32903">8087</vif:SVID><vif:SVID_Modes_Fixed value="true" /><vif:SVID_Num_Modes_Min value="1" /><vif:SVID_Num_Modes_Max value="1" /><!--Bundle: CableSVIDModeList--><vif:CableSVIDModeList><vif:CableSVIDMode><!--Cable SVID Mode 1--><vif:SVID_Mode_Enter value="true" /><vif:SVID_Mode_Recog_Value value="286331153">11111111</vif:SVID_Mode_Recog_Value></vif:CableSVIDMode></vif:CableSVIDModeList></vif:CableSVID></vif:CableSVIDList></vif:Component></vif:VIF>]]></vif>
+    </productInfo>
+  </product>
+  <components>
+    <component>
+      <technology />
+      <subject />
+      <value />
+      <testTool>
+        <deviceID>C2</deviceID>
+        <nameVendor>Granite River Labs</nameVendor>
+        <nameProduct>GRL-C2</nameProduct>
+        <nameModel>
+        </nameModel>
+        <versionHW>
+        </versionHW>
+        <versionSW>1.6.10.22</versionSW>
+        <versionFW>1.1.4 / 1.3 / 1.3 / 3.3 / 3.3</versionFW>
+        <serialNumber>GRL-C2-EPR-2022038</serialNumber>
+        <dateCalibration>
+        </dateCalibration>
+        <configuration>
+        </configuration>
+        <description>
+        </description>
+        <comments>
+        </comments>
+        <testRuns>
+          <testRun timestamp="2023-01-19T15:48:16">
+            <spec>
+              <title>USB Power Delivery Compliance Test Specification</title>
+              <version>1.0</version>
+              <revision>1.2</revision>
+            </spec>
+            <score value="pass" />
+            <test tcID="TEST.PD.PHY.ALL.1">
+              <title>Transmit Bit Rate and the Drift </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.1#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.1#2">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.1#3">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.1#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.1#2">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.1#3">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PHY.ALL.2">
+              <title>Transmitter Eye Diagram </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.2#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.2#2">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMidEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.2#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.2#2">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.2#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.2#2">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PHY.ALL.3">
+              <title>Collision Avoidance </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.3#1">
+                      <score value=" pass" />
+                      <comment>Packet#34</comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.3#2">
+                      <score value=" pass" />
+                      <comment>Packet#43</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.3#1">
+                      <score value=" pass" />
+                      <comment>Packet#61</comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.3#2">
+                      <score value=" pass" />
+                      <comment>Packet#70</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PHY.ALL.4">
+              <title>Bus Idle Detection </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.4#1">
+                      <score value=" pass" />
+                      <comment>GoodCRC expected</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.4#1">
+                      <score value=" pass" />
+                      <comment>DUT failed to initiate GoodCRC. Please verify the signal capture and confirm the test failure</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PHY.ALL.5">
+              <title>Receiver Interference Rejection </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.5#1">
+                      <score value=" pass" />
+                      <comment>Expected Cnt: 13362 Obtained BIST Cnt: 13362 and GoodCRC Cnt: 13362
+NoiseGrp_1_Cable: Packet#19. Count Reference: Packet#BIST: 26747 GoodCRC: 26748</comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.5#4">
+                      <score value=" pass" />
+                      <comment>Expected Cnt: 13362 Obtained BIST Cnt: 13362 and GoodCRC Cnt: 13362
+NoiseGrp_2_Cable: Packet#26750. Count Reference: Packet#BIST: 53478 GoodCRC: 53479
+Expected Cnt: 13362 Obtained BIST Cnt: 13362 and GoodCRC Cnt: 13362
+NoiseGrp_3_Cable: Packet#53481. Count Reference: Packet#BIST: 80209 GoodCRC: 80210</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.5#1">
+                      <score value=" pass" />
+                      <comment>Expected Cnt: 13362 Obtained BIST Cnt: 13362 and GoodCRC Cnt: 13362
+NoiseGrp_1_Cable: Packet#80222. Count Reference: Packet#BIST: 106950 GoodCRC: 106951</comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.5#4">
+                      <score value=" pass" />
+                      <comment>Expected Cnt: 13362 Obtained BIST Cnt: 13362 and GoodCRC Cnt: 13362
+NoiseGrp_2_Cable: Packet#106953. Count Reference: Packet#BIST: 133681 GoodCRC: 133682
+Expected Cnt: 13362 Obtained BIST Cnt: 13362 and GoodCRC Cnt: 13362
+NoiseGrp_3_Cable: Packet#133684. Count Reference: Packet#BIST: 160412 GoodCRC: 160413</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PHY.ALL.6">
+              <title>Invalid SOP* </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PHY.ALL.7">
+              <title>Valid SOP* </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.7#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.7#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.7#5">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.7#7">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.7#8">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.7#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.7#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.7#5">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.7#7">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.7#8">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PHY.ALL.8">
+              <title>Incorrect CRC </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.8#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.8#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.8#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.8#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.8#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PHY.ALL.8#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.8#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.8#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.8#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.8#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PHY.ALL.9">
+              <title>Receiver Input Impedance </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.9#3">
+                      <score value=" pass" />
+                      <comment>CC-line voltage is 1.747V at time 3.91997665s</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.9#4">
+                      <score value=" pass" />
+                      <comment>CC-line voltage is 1.747V at time 9.96298462s
+ccline voltage is 1.682v at time 9.86298s</comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.9#5">
+                      <score value=" pass" />
+                      <comment>CCline voltage is 1.747V at time 9.96298s</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.9#3">
+                      <score value=" pass" />
+                      <comment>CC-line voltage is 1.747V at time 15.02599313s</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.9#4">
+                      <score value=" pass" />
+                      <comment>CC-line voltage is 1.747V at time 21.06900718s
+ccline voltage is 1.73v at time 20.96901s</comment>
+                    </check>
+                    <check checkID="TEST.PD.PHY.ALL.9#5">
+                      <score value=" pass" />
+                      <comment>CCline voltage is 1.747V at time 21.06901s</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PHY.PORT.1">
+              <title>Invalid Reset Signals </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.ALL.1">
+              <title>Corrupted GoodCRC </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev2VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.1#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.1#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.1#6">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.1#9">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.1#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.1#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.1#6">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.1#9">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev2VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.1#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.1#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.1#6">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.1#9">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.1#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.1#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.1#6">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.1#9">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.ALL.2">
+              <title>Soft Reset and Hard Reset </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev2VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.2#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.2#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.2#6">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.2#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.2#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.2#6">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev2VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.2#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.2#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.2#6">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.2#1">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.2#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.2#6">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.ALL.3">
+              <title>Soft Reset response </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev2VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.3#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.3#1">
+                      <score value=" pass" />
+                      <comment>UUT responded with VendorDefined for Discover_ID message at protocol index: 15</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.3#7">
+                      <score value=" pass" />
+                      <comment>UUT responded with VendorDefined for Discover_ID message at protocol index: 24</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.3#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.3#1">
+                      <score value=" pass" />
+                      <comment>UUT responded with VendorDefined for Discover_ID message at protocol index: 34</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.3#7">
+                      <score value=" pass" />
+                      <comment>UUT responded with VendorDefined for Discover_ID message at protocol index: 43</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev2VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.3#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.3#1">
+                      <score value=" pass" />
+                      <comment>UUT responded with VendorDefined for Discover_ID message at protocol index: 53</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.3#7">
+                      <score value=" pass" />
+                      <comment>UUT responded with VendorDefined for Discover_ID message at protocol index: 62</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.3#4">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.3#1">
+                      <score value=" pass" />
+                      <comment>UUT responded with VendorDefined for Discover_ID message at protocol index: 72</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.3#7">
+                      <score value=" pass" />
+                      <comment>UUT responded with VendorDefined for Discover_ID message at protocol index: 81</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.ALL.4">
+              <title>Reset Signals and MessageID </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev2VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.4#1">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#15</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#7">
+                      <score value=" pass" />
+                      <comment>Tester initiated Hard Reset message </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#8">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#25</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#11">
+                      <score value=" pass" />
+                      <comment>UUT ignored to respond for tester initited Discover ID at protocol index 28</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#12">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#33</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev2VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.4#1">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#43</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#7">
+                      <score value=" pass" />
+                      <comment>Tester initiated Cable Reset message </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#8">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#53</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#11">
+                      <score value=" pass" />
+                      <comment>UUT ignored to respond for tester initited Discover ID at protocol index 56</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#12">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#61</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.4#1">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#71</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#7">
+                      <score value=" pass" />
+                      <comment>Tester initiated Hard Reset message </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#8">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#81</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#11">
+                      <score value=" pass" />
+                      <comment>UUT ignored to respond for tester initited Discover ID at protocol index 84</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#12">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#89</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.4#1">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#99</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#7">
+                      <score value=" pass" />
+                      <comment>Tester initiated Cable Reset message </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#8">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#109</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#11">
+                      <score value=" pass" />
+                      <comment>UUT ignored to respond for tester initited Discover ID at protocol index 112</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#12">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#117</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev2VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.4#1">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#127</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#7">
+                      <score value=" pass" />
+                      <comment>Tester initiated Hard Reset message </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#8">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#137</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#11">
+                      <score value=" pass" />
+                      <comment>UUT ignored to respond for tester initited Discover ID at protocol index 140</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#12">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#145</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev2VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.4#1">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#155</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#7">
+                      <score value=" pass" />
+                      <comment>Tester initiated Cable Reset message </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#8">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#165</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#11">
+                      <score value=" pass" />
+                      <comment>UUT ignored to respond for tester initited Discover ID at protocol index 168</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#12">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#173</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.4#1">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#183</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#7">
+                      <score value=" pass" />
+                      <comment>Tester initiated Hard Reset message </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#8">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#193</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#11">
+                      <score value=" pass" />
+                      <comment>UUT ignored to respond for tester initited Discover ID at protocol index 196</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#12">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#201</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.4#1">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#211</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#7">
+                      <score value=" pass" />
+                      <comment>Tester initiated Cable Reset message </comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#8">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#221</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#11">
+                      <score value=" pass" />
+                      <comment>UUT ignored to respond for tester initited Discover ID at protocol index 224</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL.4#12">
+                      <score value=" pass" />
+                      <comment>Responded with VendorDefined message for tester initiated Discover ID at protocol index#229</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.ALL.5">
+              <title>Unrecognized Message </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev2VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.5#1">
+                      <score value=" pass" />
+                      <comment>DUT ignored response for tester initiated Reserved message at protocol index13 </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.5#1">
+                      <score value=" pass" />
+                      <comment>DUT ignored response for tester initiated Reserved message at protocol index21 </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev2VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.5#1">
+                      <score value=" pass" />
+                      <comment>DUT ignored response for tester initiated Reserved message at protocol index29 </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL.5#1">
+                      <score value=" pass" />
+                      <comment>DUT ignored response for tester initiated Reserved message at protocol index37 </comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.ALL3.1">
+              <title>Get_Status Response </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.1#2">
+                      <score value=" pass" />
+                      <comment>DUT ignored the response for Get_Status at protocol index #13</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL3.1#4">
+                      <score value=" pass" />
+                      <comment>DUT ignored the response for Get_Status at protocol index #13</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.1#2">
+                      <score value=" pass" />
+                      <comment>DUT ignored the response for Get_Status at protocol index #21</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL3.1#4">
+                      <score value=" pass" />
+                      <comment>DUT ignored the response for Get_Status at protocol index #21</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.ALL3.2">
+              <title>Get_Manufacturer_Info Response </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.2#1">
+                      <score value=" pass" />
+                      <comment>DUT sent Manufacturer_Info message for the Get_Manufacturer_Info</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL3.2#3">
+                      <score value=" pass" />
+                      <comment>DUT decoded VID is 0x2d76 and mentioned in VIF is 0x2d76
+DUT decoded PID is 0x1 and mentioned in VIF is 0x1</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.2#1">
+                      <score value=" pass" />
+                      <comment>DUT sent Manufacturer_Info message for the Get_Manufacturer_Info</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL3.2#3">
+                      <score value=" pass" />
+                      <comment>DUT decoded VID is 0x2d76 and mentioned in VIF is 0x2d76
+DUT decoded PID is 0x1 and mentioned in VIF is 0x1</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.ALL3.3">
+              <title>Invalid Manufacturer Info Target </title>
+              <score value="fail" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="fail" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.3#1">
+                      <score value=" pass" />
+                      <comment>DUT sent Manufacturer_Info message for the Get_Manufacturer_Info at protocol index 13</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL3.3#3">
+                      <score value=" fail" />
+                      <comment>DUT manufacture info string matched with specified format
+VID Field is not 0xFFFF</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="fail" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.3#1">
+                      <score value=" pass" />
+                      <comment>DUT sent Manufacturer_Info message for the Get_Manufacturer_Info at protocol index 23</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL3.3#3">
+                      <score value=" fail" />
+                      <comment>DUT manufacture info string matched with specified format
+VID Field is not 0xFFFF</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.ALL3.4">
+              <title>Invalid Manufacturer Info Ref </title>
+              <score value="fail" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="fail" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.4#1">
+                      <score value=" pass" />
+                      <comment>DUT sent Manufacturer_Info message for the Get_Manufacturer_Info</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL3.4#3">
+                      <score value=" fail" />
+                      <comment>DUT manufacture info string matched with specified format
+VID Field is not 0xFFFF</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="fail" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.4#1">
+                      <score value=" pass" />
+                      <comment>DUT sent Manufacturer_Info message for the Get_Manufacturer_Info</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL3.4#3">
+                      <score value=" fail" />
+                      <comment>DUT manufacture info string matched with specified format
+VID Field is not 0xFFFF</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.ALL3.5">
+              <title>Chunked Extended Message Response </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.5#1">
+                      <score value=" pass" />
+                      <comment>UUT is a cable plug and respond with Ignore and the VIF value for Chunking_Implemented is False</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.5#1">
+                      <score value=" pass" />
+                      <comment>UUT is a cable plug and respond with Ignore and the VIF value for Chunking_Implemented is False</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.ALL3.6">
+              <title>ChunkSenderResponseTimer Timeout </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.6#1">
+                      <score value=" pass" />
+                      <comment>UUT is a cable plug and responded with Ignore</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.6#1">
+                      <score value=" pass" />
+                      <comment>UUT is a cable plug and responded with Ignore</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.ALL3.7">
+              <title>Security Messages Supported </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.7#1">
+                      <score value=" pass" />
+                      <comment>VIF field for Security_Msgs_Supported is set to No and DUT ignored the response to the Tester initiated Security Request</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.7#1">
+                      <score value=" pass" />
+                      <comment>VIF field for Security_Msgs_Supported is set to No and DUT ignored the response to the Tester initiated Security Request</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.ALL3.8">
+              <title>Get Revision Response </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMidEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.PROT.ALL3.8#1">
+                      <score value=" pass" />
+                      <comment>UUT ignored Get_Revision message</comment>
+                    </check>
+                    <check checkID="TEST.PD.PROT.ALL3.8#2">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PROT.PORT3.1">
+              <title>Get Battery Status Response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.PORT3.2">
+              <title>Invalid Battery Status </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.PORT3.3">
+              <title>Get Battery Cap Response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.PORT3.4">
+              <title>Invalid Battery Capabilities Reference </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.PORT3.5">
+              <title>Get Country Codes Response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.PORT3.6">
+              <title>Get Country Info Response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.PORT3.7">
+              <title>Unchunked Extended Message Supported </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.1">
+              <title>Get_Source_Cap Response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.2">
+              <title>Get_Source_Cap No Request </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.3">
+              <title>Sender Response Timer Deadline </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.4">
+              <title>Reject Request </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.5">
+              <title>Reject Request Invalid Object Position </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.6">
+              <title>Atomic Message Sequence – Request </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.7">
+              <title>DR_Swap </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.8">
+              <title>VCONN_Swap Response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.9">
+              <title>PR_Swap Response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.10">
+              <title>PR_Swap – PSSourceOnTimer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.11">
+              <title>Unexpected Message Received in Ready State </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.12">
+              <title>Get_Sink_Cap Response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC.13">
+              <title>PR Swap GoodCRC not sent in Response to PS_RDY </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.1">
+              <title>SourceCapabilityTimer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.2">
+              <title>SenderResponseTimer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.3">
+              <title>Get_Source_Cap_Extended Response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.4">
+              <title>Alert Response Source Input Change </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.5">
+              <title>Alert Response Battery Status Change </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.6">
+              <title>Soft_Reset Sent when SinkTxOK </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.7">
+              <title>Get_PPS_Status Response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.8">
+              <title>SourcePPSCommTimer Deadline </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.9">
+              <title>SourcePPSCommTimer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.10">
+              <title>SourcePPSCommTimer Stopped </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.11">
+              <title>GoodCRC Specification Revision Compatibility </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.12">
+              <title>FR Swap Without Signaling </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.13">
+              <title>Cable Type Detection </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SRC3.14">
+              <title>Source Info </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.1">
+              <title>Get_Sink_Cap Response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.2">
+              <title>Get_Source_Cap Response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.3">
+              <title>SinkWaitCapTimer Deadline </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.4">
+              <title>SinkWaitCapTimer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.5">
+              <title>SenderResponseTimer Deadline </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.6">
+              <title>SenderResponseTimer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.7">
+              <title>PSTransitionTimer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.8">
+              <title>Atomic Message Sequence – Accept </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.9">
+              <title>Atomic Message Sequence – PS_RDY </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.10">
+              <title>DR_Swap Request </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.11">
+              <title>VCONN_Swap Request </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.12">
+              <title>PR_Swap – PSSourceOffTimer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.13">
+              <title>PR_Swap – Request SenderResponseTimer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK.14">
+              <title>Valid Use of GoodCRC on Power up </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK3.1">
+              <title>Get_Source_Cap_Extended </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK3.2">
+              <title>Alert Response Source Input Change </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK3.3">
+              <title>Alert Response Battery Status Change </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK3.4">
+              <title>Soft_Reset Sent Regardless of Rp Value </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK3.5">
+              <title>Sink PPS Normal Operation </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK3.6">
+              <title>Revision Number Test </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK3.7">
+              <title>GoodCRC Specification Revision Compatibility </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PROT.SNK3.8">
+              <title>GotoMin Message </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.VDM.SNK.1">
+              <title>Discovery Process and Enter Mode </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.VDM.SNK.2">
+              <title>Exit Mode without Entering </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.VDM.SNK.3">
+              <title>Interruption by PD Message </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.VDM.SNK.4">
+              <title>Interruption by VDM Message </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.VDM.SNK.5">
+              <title>DR Swap in Modal Operation </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.VDM.SNK.6">
+              <title>Structured VDM Revision Number Test </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.VDM.SNK.7">
+              <title>Unrecognized VID in Unstructured VDM </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.VDM.CBL.1">
+              <title>Discovery Process and Enter Mode </title>
+              <score value="fail" />
+              <conditions>
+                <condition conditionID=" Rev2VcMinEnd1">
+                  <score value="fail" />
+                  <checks>
+                    <check checkID="TEST.PD.VDM.CBL.1#1">
+                      <score value=" pass" />
+                      <comment>[PASS] : UUT respond with 'Responder ACK' message for the Tester initiated Discover ID at protocol index 15</comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#2">
+                      <score value=" pass" />
+                      <comment>UUT respond with 'Responder ACK' message for the Tester initiated Discover SVID at protocol index 19
+Modal_Operation_Supported is YES</comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#3">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#4">
+                      <score value=" fail" />
+                      <comment>SVID&lt;X&gt;_Mode&lt;Y&gt;_Recog_Value_SOP value in VIF 286331153 and VDO value 196609 at protocol index 23</comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#5">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#6">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="fail" />
+                  <checks>
+                    <check checkID="TEST.PD.VDM.CBL.1#1">
+                      <score value=" fail" />
+                      <comment>[PASS] : UUT respond with 'Responder ACK' message for the Tester initiated Discover ID at protocol index 43</comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#2">
+                      <score value=" pass" />
+                      <comment>UUT respond with 'Responder ACK' message for the Tester initiated Discover SVID at protocol index 47
+Modal_Operation_Supported is YES</comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#3">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#4">
+                      <score value=" fail" />
+                      <comment>SVID&lt;X&gt;_Mode&lt;Y&gt;_Recog_Value_SOP value in VIF 286331153 and VDO value 196609 at protocol index 51</comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#5">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#6">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev2VcMaxEnd1">
+                  <score value="fail" />
+                  <checks>
+                    <check checkID="TEST.PD.VDM.CBL.1#1">
+                      <score value=" pass" />
+                      <comment>[PASS] : UUT respond with 'Responder ACK' message for the Tester initiated Discover ID at protocol index 71</comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#2">
+                      <score value=" pass" />
+                      <comment>UUT respond with 'Responder ACK' message for the Tester initiated Discover SVID at protocol index 75
+Modal_Operation_Supported is YES</comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#3">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#4">
+                      <score value=" fail" />
+                      <comment>SVID&lt;X&gt;_Mode&lt;Y&gt;_Recog_Value_SOP value in VIF 286331153 and VDO value 196609 at protocol index 79</comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#5">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#6">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="fail" />
+                  <checks>
+                    <check checkID="TEST.PD.VDM.CBL.1#1">
+                      <score value=" fail" />
+                      <comment>[PASS] : UUT respond with 'Responder ACK' message for the Tester initiated Discover ID at protocol index 99</comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#2">
+                      <score value=" pass" />
+                      <comment>UUT respond with 'Responder ACK' message for the Tester initiated Discover SVID at protocol index 103
+Modal_Operation_Supported is YES</comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#3">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#4">
+                      <score value=" fail" />
+                      <comment>SVID&lt;X&gt;_Mode&lt;Y&gt;_Recog_Value_SOP value in VIF 286331153 and VDO value 196609 at protocol index 107</comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#5">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                    <check checkID="TEST.PD.VDM.CBL.1#6">
+                      <score value=" pass" />
+                      <comment>
+                      </comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.VDM.SRC.1">
+              <title>Discovery Process and Enter Mode </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.VDM.SRC.2">
+              <title>Invalid Fields – Discover Identity </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.VDM.CBL3.1">
+              <title>Revision Number Test </title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID=" Rev3VcMinEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.VDM.CBL3.1#1">
+                      <score value=" pass" />
+                      <comment>Specification_Revision in VIF :1 and in response message :1</comment>
+                    </check>
+                  </checks>
+                </condition>
+                <condition conditionID=" Rev3VcMaxEnd1">
+                  <score value="pass" />
+                  <checks>
+                    <check checkID="TEST.PD.VDM.CBL3.1#1">
+                      <score value=" pass" />
+                      <comment>Specification_Revision in VIF :1 and in response message :1</comment>
+                    </check>
+                  </checks>
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="TEST.PD.PS.SRC.1">
+              <title>Multiple Request Messages </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PS.SRC.2">
+              <title>PDO Transition </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PS.SRC.3">
+              <title>Initial Source PDO Transition Post PR Swap </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PS.SNK.1">
+              <title>PDO Transition </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PS.SNK.2">
+              <title>Initial Sink PDO Transition </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PS.SNK.3">
+              <title>Multiple Request Load Test Post PR Swap </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.1">
+              <title>EPR Entry Process - UUT as VCONN Source </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.2">
+              <title>EPR Entry Process - Tester as VCONN Source </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.3">
+              <title>EPR Entry failed - EPR Mode Capable bit not set in RDO </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.4">
+              <title>EPR Entry failed – Tester as VCONN source </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.5">
+              <title>EPR Entry Failed - EPR_Mode(Reserved) message </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.6">
+              <title>EPR Entry Failed - Cable not EPR capable  </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.7">
+              <title>EPR Entry Failed - Interrupted by EPR_Get_Sink_Cap message </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.8">
+              <title>EPR mode - Request message response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.9">
+              <title>EPR mode - EPR_Get_Source_Cap message </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.10">
+              <title>SPR mode - EPR_Get_Source_Cap message </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.11">
+              <title>EPR Mode Exit by EPR_Mode_Exit message </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.12">
+              <title>EPR mode - Get_Source_Cap message and Request message response </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SRC3.13">
+              <title>EPR mode - tSourceEPRKeepAlive Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SNK3.1">
+              <title>EPR Entry Process - Success </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SNK3.2">
+              <title>EPR Entry Fail tEnterEPR Timer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SNK3.3">
+              <title>EPR Fail by EPR Enter Failed Message </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SNK3.4">
+              <title>EPR Entry Fail tFirstSourceCap Timer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SNK3.5">
+              <title>EPR Exit by Incorrect EPR Source Cap </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SNK3.6">
+              <title>EPR Exit by EPR Exit Message </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SNK3.7">
+              <title>EPR Fail by Wait Message </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SNK3.8">
+              <title>EPR Exit by Source Cap Message </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SNK3.9">
+              <title>EPR Entry failed due to SourceCap </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.EPR.SNK3.10">
+              <title>EPR Exit fail due to SinkWaitCapTimer timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PS.EPR.SRC3.1">
+              <title>Multiple EPR Request Load Test </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.PS.EPR.SRC3.2">
+              <title>PDO Transitions in EPR Mode </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SRC3.1">
+              <title>Normal Conditions </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SRC3.2">
+              <title>Provider Only Checks </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SRC3.3">
+              <title>GoodCRC Not Sent In Response To Accept </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SRC3.4">
+              <title>GoodCRC Not Sent In Response To PS_RDY </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SRC3.5">
+              <title>PSSourceOnTimer Deadline </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SRC3.6">
+              <title>PSSourceOnTimer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SNK3.1">
+              <title>Normal Conditions </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SNK3.2">
+              <title>Normal Conditions, Consumer Only </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SNK3.3">
+              <title>FR_Swap Not Sent </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SNK3.4">
+              <title>SendResponseTimer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SNK3.5">
+              <title>PSSourceOffTimer Deadline </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SNK3.6">
+              <title>PSSourceOffTimer Timeout </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="TEST.PD.FRS.SNK3.7">
+              <title>PS_RDY Not Sent </title>
+              <score value="n/a" />
+              <conditions />
+            </test>
+            <test tcID="COMMON.CHECK.PD.1">
+              <title>Common_Check_PD_1_Check_Preamble - COMMON.CHECK.PD.1</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.1#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.2">
+              <title>Common_Check_PD_2_Check_Message_Header - COMMON.CHECK.PD.2</title>
+              <score value="fail" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.2#1">
+                  <score value="fail" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.3">
+              <title>Common_Check_PD_3_Check_GoodCRC - COMMON.CHECK.PD.3</title>
+              <score value="fail" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.3#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.3#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.4">
+              <title>Common_Check_PD_4_Check_Atomic_Message_Sequence - COMMON.CHECK.PD.4</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.4#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.5">
+              <title>Common_Check_PD_5_Check_Unexpected_Messages_And_Signals - COMMON.CHECK.PD.5</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.5#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.5#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.5#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.5#4">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.6">
+              <title>Common_Check_PD_6_Control_Message - COMMON.CHECK.PD.6</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.6#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.7">
+              <title>Common_Check_PD_7_Source_Capability_Message - COMMON.CHECK.PD.7</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.7#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#4">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#5">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#6">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#7">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#8">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#9">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#10">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#11">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.CHECK.PD.7#12">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.8">
+              <title>Common_Check_PD_8_Request_Message - COMMON.CHECK.PD.8</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.8#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.9">
+              <title>Common_Check_PD_9_Structured_VDM - COMMON.CHECK.PD.9</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.9#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.10">
+              <title>Common_Check_PD_10_Extended_Message_Header - COMMON.CHECK.PD.10</title>
+              <score value="fail" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.10#1">
+                  <score value="fail" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.11">
+              <title>Common_Check_PD_11_Source_Capability_Extended_Message - COMMON.CHECK.PD.11</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.11#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.12">
+              <title>Common_Check_PD_12_Check_Sink_Capabilities - COMMON.CHECK.PD.12</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.12#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD.13">
+              <title>Common_Check_PD_13_Check_Correct_Use_of_Rp - COMMON.CHECK.PD.13</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD.13#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD3.1">
+              <title>COMMON_CHECK_PD3_1_Check_EPR_Request_Message - COMMON.CHECK.PD3.1</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD3.1#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD3.2">
+              <title>COMMON_CHECK_PD3_2_Check_EPR_Mode_Message - COMMON.CHECK.PD3.2</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD3.2#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD3.3">
+              <title>COMMON_CHECK_PD3_3_Check_EPR_Source_Capabilities_Message - COMMON.CHECK.PD3.3</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD3.3#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.CHECK.PD3.4">
+              <title>COMMON_CHECK_PD3_4_Check_EPR_Sink_Capabilities_Message - COMMON.CHECK.PD3.4</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.CHECK.PD3.4#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.2">
+              <title>COMMON_PROC_PD_2_UUT_Sent_Get_Source_Cap - COMMON.PROC.PD.2</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.2#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.2#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.3">
+              <title>COMMON_PROC_PD_3_UUT_Sent_Get_Sink_Cap - COMMON.PROC.PD.3</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.3#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.4">
+              <title>COMMON_PROC_PD_4_UUT_Sent_Ping - COMMON.PROC.PD.4</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.4#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.5">
+              <title>COMMON_PROC_PD_5_UUT_Sent_PR_Swap - COMMON.PROC.PD.5</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.5#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.5#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.5#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.6">
+              <title>COMMON_PROC_PD_6_UUT_Sent_VCONN_Swap - COMMON.PROC.PD.6</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.6#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.6#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.6#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.6#4">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.7">
+              <title>COMMON_PROC_PD_7_UUT_Sent_Discover_Identity_Request - COMMON.PROC.PD.7</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.7#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.7#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.7#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.8">
+              <title>COMMON_PROC_PD_8_UUT_Sent_Discover_SVIDs_Request - COMMON.PROC.PD.8</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.8#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.8#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.8#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.9">
+              <title>COMMON_PROC_PD_9_UUT_Sent_Attention - COMMON.PROC.PD.9</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.9#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.9#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.10">
+              <title>COMMON_PROC_PD_10_UUT_Sent_Request - COMMON.PROC.PD.10</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.10#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.11">
+              <title>COMMON_PROC_PD_11_UUT_Sent_Source_Capabilities - COMMON.PROC.PD.11</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.11#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.11#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.11#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD.11#4">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD.12">
+              <title>COMMON_PROC_PD_12_UUT_Sent_DR_Swap - COMMON.PROC.PD.12</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.12#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.1">
+              <title>COMMON_PROC_PD3_1_Sink_Start_an_AMS - COMMON.PROC.PD3.1</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD3.1#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.2">
+              <title>COMMON_PROC_PD3_2_UUT_Sent_EPR_Source_Cap_message - COMMON.PROC.PD3.2</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD3.2#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.2#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.2#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.3">
+              <title>COMMON_PROC_PD3_3_UUT_Sent_EPR_Get_Source_Cap - COMMON.PROC.PD3.3</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD3.3#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.3#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.4">
+              <title>COMMON_PROC_PD3_4_UUT_Sent_EPR_Request - COMMON.PROC.PD3.4</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD.3.4#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.5">
+              <title>COMMON_PROC_PD3_5_Tester_Sent_EPR_Mode_Enter - COMMON.PROC.PD3.5</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD3.5#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#4">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#5">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#6">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#7">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.5#8">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.6">
+              <title>COMMON_PROC_PD3_6_UUT_Sent_EPR_Mode_Enter - COMMON.PROC.PD3.6</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD3.6#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.6#2">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.6#3">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.6#4">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.6#5">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.6#6">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+                <condition conditionID="COMMON.PROC.PD3.6#7">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+            <test tcID="COMMON.PROC.PD3.7">
+              <title>COMMON_PROC_PD3_7_Tester_Sends_EPR_KeepAlive_Message - COMMON.PROC.PD3.7</title>
+              <score value="pass" />
+              <conditions>
+                <condition conditionID="COMMON.PROC.PD3.7#1">
+                  <score value="pass" />
+                  <checks />
+                </condition>
+              </conditions>
+            </test>
+          </testRun>
+        </testRuns>
+      </testTool>
+    </component>
+  </components>
+</testReport>
